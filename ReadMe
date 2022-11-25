@@ -1,2 +1,15 @@
-Algoritmo desenvolvido em C++ durante primeiro ano de universidade para praticar programacao.
-Pode ser utilizado para converter unidades, calcular area e volume e estatistica basica
+# Calculadora Multiuso
+
+<p> Esse projeto foi o meu primeiro projeto, quando estava no primeiro ano de faculdade, durante o curso de Introdução à Computação. Foi desenvolvido em C++ pensando
+em facilitar a minha vida como estudante de Engenharia, possuindo:</p>
+<li> Conversor de Unidades;</li>
+<li> Calculadora Estatistica;</li>
+<li> Calculadora de Medidas.</li>
+
+# Multi Usage Calculator
+
+<p> This project was my first one, when I was in my first year of college, during my Computacional Introduction course. Was developed in C++, thinking in facilitate my
+life as an Engineer Student, having: </p>
+<li> Units conversor; </li>
+<li> Statistical Calculator; </li>
+<li> Measurements Calculator; </li>
